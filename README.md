@@ -1,19 +1,13 @@
-# 🎈 Blank app template
+# ✋ Sign Language Recognition App
 
-A simple Streamlit app template for you to modify!
+A simple Streamlit-based app that detects hand gestures using a webcam.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## 🚀 Features
+- Real-time webcam capture
+- Gesture prediction (dummy model)
+- Easy to extend with CNN model
 
-### How to run it on your own machine
+## 🛠 Installation
 
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+```bash
+pip install -r requirements.txt
